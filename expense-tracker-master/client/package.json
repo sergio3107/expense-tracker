@@ -2,7 +2,7 @@
   "name": "expense-tracker-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sergio3107/expense-tracker",
+  "homepage": "https://sergio3107.github.io/expense-tracker",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",
